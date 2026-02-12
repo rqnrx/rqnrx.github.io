@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="jp">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>永眠しましょうね。</title>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      cursor: pointer;
+      transition: background 0.25s ease, color 0.25s ease;
+    }
+
+    .text {
+      font-size: 4rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body onclick="window.location.href = u;">
+  <div id="text" class="text"></div>
+
+  <script>
+    const i = Math.floor(Math.random() * 10);
+    const j = document.getElementById("text");
+    const k = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    u = atob("aHR0cHM6Ly92cmNoYXQuY29tL2hvbWUvdXNlci91c3JfYmRkNjlmYWEtZjg2Zi00YWViLThmM2YtNjQyMDUyZDg4YzU2");
+    console.log(i)
+    
+    function t(lb, lt, db, dt) {
+      if (k) {
+        document.body.style.background = db;
+        document.body.style.color = dt;
+      } else {
+        document.body.style.background = lb;
+        document.body.style.color = lt;
+      }
+    }
+    
+    switch (i) {
+      case 0:
+        t("#ffffff", "#000000", "#000000", "#ffffff");
+        j.textContent = "†";
+        break;
+
+      case 1:
+        t("#000000", "#ffffff", "#ffffff", "#000000");
+        u = atob("aHR0cHM6Ly9kaXNjb3JkLmNvbS91c2Vycy8zNTg5OTQyMTA2Njc0OTU0MjQ=");
+        j.textContent = "♡";
+        break;
+
+      default:
+        t("#ffffff", "#000000", "#000000", "#ffffff");
+        j.textContent = "†";
+    }
+  </script>
+</body>
+</html>
