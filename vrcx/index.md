@@ -1,3 +1,8 @@
+---
+layout: default
+title: VRCXの入り方
+---
+
 # VRCXの入り方
 
 ![あくむの始まり](images/0_iiyo_w.png)
