@@ -9,7 +9,7 @@ title: VRCXの入り方
 
 ##  ダウンロードとインストール
 
-### まずはここにVRCXをダウンロード:　[https://github.com/vrcx-team/VRCX/releases/latest]
+### まずはここにVRCXをダウンロード:　[公式リリース](https://github.com/vrcx-team/VRCX/releases/latest)
 
 下までスクロールして、『Setup.exe』で終わるものが目的のものです。
 
