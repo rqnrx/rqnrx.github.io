@@ -7,6 +7,9 @@ title: VRCXの入り方
 
 ![あくむの始まり](images/0_iiyo_w.png)
 
+# VRCX今めっちゃ大アップデ(ver2026.05.03)入ってるから
+このページ更新する前に一旦無視してね
+
 ##  ダウンロードとインストール
 
 ### まずはここにVRCXをダウンロード:　[公式リリース](https://github.com/vrcx-team/VRCX/releases/latest)
