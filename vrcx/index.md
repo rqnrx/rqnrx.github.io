@@ -7,9 +7,6 @@ title: VRCXの入り方
 
 ![あくむの始まり](images/0_iiyo_w.png)
 
-# VRCX今めっちゃ大アップデ(ver2026.05.03)入ってるから
-このページ更新する前に一旦無視してね
-
 ##  ダウンロードとインストール
 
 ### まずはここにVRCXをダウンロード:　[公式リリース](https://github.com/vrcx-team/VRCX/releases/latest)
@@ -34,13 +31,21 @@ title: VRCXの入り方
 
 ## 初めての出会い、眩しい
 
-ログインしたらこんな感じ、明るいね。左下に**テーマを切り替え**してみよう。
+ようこそ、地獄へ。使い始めよう！
 
-![黒白](images/6_theme.png)
+![ようこそ地獄へ](images/6_welcome.png)
+
+ログインしたらこんな感じ、明るいね。左下に **"管理"** → **"テーマ"** に切り替えできます。
+
+![テーマの設定](images/6_theme.png)
+
+白と黒はこんな感じです。
+
+![黒白](images/6_theme_compare.png)
 
 ## ジョインしてくる人が先に分かるやつ
 
-まずは　**"管理"** → **"設定"** → **"通知"**　に行く。
+まずは　**"管理"** → **"設定"** → **"VR"**　に行く。
 
 ![設定の位置](images/7_settings.png)
 
@@ -52,7 +57,7 @@ title: VRCXの入り方
 
 ![SteamVRオーバーレイ通知の位置](images/9_stvrnotiLocation.png)
 
-最後は一番大事な　**"通知フィルター"**
+次は **"通知"**、一番大事な　**"通知フィルター"**　いじります。
 
 ![通知フィルター](images/10_evilassbutton.png)
 
@@ -106,6 +111,8 @@ title: VRCXの入り方
 
 好きに選んでOKです。おれの設定です：
 
+Favorites = お気に入り、Friends = フレンド
+
 ![これ書いてるの人の設定](images/12_mySettings.png)
 
 ### 効果
@@ -124,3 +131,7 @@ title: VRCXの入り方
   * 自分で探索してねー
   * メイン画面見たらわかると思うけどｗ
   * このページいつかまた更新するかも...知らんけど。
+
+* VRCX使ってるの人メンヘラになるって本当？
+  * ソフトウェアのメンテナーからの見解です：
+  * ![[twitter URL](https://x.com/Map1en_/status/2047286556902519110)](images/14_wisewordsfrommaintainer.png)
